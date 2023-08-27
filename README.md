@@ -15,4 +15,4 @@ Click the add-button to store the item and
 ## Credit: Personer som deltagit i Projektet
 jkat74nti
 ## Licens: utvecklare vet vad de får och inte får göra (Vanligaste GPL) .
-GPL
+GNU GPL v3
